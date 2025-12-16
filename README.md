@@ -11,7 +11,9 @@ The contents of the repo are:
 
 1. **`WDMS_EBs.csv`** Table of the **entire sample**, where **each row corresponds to one binary** candidate (includes large fraction of chance alignments).
 
----## Data Columns
+---
+
+## Data Columns
 
 This table contains observed and derived parameters for detached WD+MS post–common-envelope binaries (PCEBs). Unless otherwise noted, all uncertainties are quoted as the 16th and 84th percentiles.
 
