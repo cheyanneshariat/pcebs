@@ -80,9 +80,10 @@ All uncertainties are reported as asymmetric errors:
 If you use this catalog in your research, please cite:
 
 ```
-Shariat & El-Badry (2026), [Journal], [Volume], [Page]
-[ADS link to be added]
+Shariat & El-Badry (2026), in preparation
 ```
+
+ADS link and full citation details will be added upon publication.
 
 ## Contact
 
