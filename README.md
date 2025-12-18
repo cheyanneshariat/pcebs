@@ -94,17 +94,15 @@ These quantities describe the predicted orbital evolution under magnetic braking
 
 - **P_RL_days**, **P_roche_days**  
   Orbital period at which the MS star fills its Roche lobe (days)
-- **t_to_roche_Gyr_Sat**  
-  Time until Roche–lobe overflow assuming saturated magnetic braking (Gyr)
-- **t_RVJ_Gyr**  
-  Time until Roche–lobe overflow assuming classical RVJ magnetic braking (Gyr)
-- **t_SAT_Gyr**  
-  Time until Roche–lobe overflow assuming the saturated S00 prescription (Gyr)
+- **t_to_roche_RVJ_Gyr**  
+  Time until Roche–lobe overflow assuming RVJ magnetic braking (Gyr)
+- **t_to_roche_SAT_Gyr**  
+  Time until Roche–lobe overflow assuming saturated (Sills+2000) magnetic braking (Gyr)
 
 ---
 
 ## Notes
-- All masses are in solar units (M⊙), radii in solar units (R⊙), periods in days or hours as specified.
+- All masses are in solar units ($M_\odot$), radii in solar units ($R_\odot$), periods in days or hours as specified.
 - Timescales are given in gigayears (Gyr).
 - WD and MS parameters are derived independently via SED fitting.
 
