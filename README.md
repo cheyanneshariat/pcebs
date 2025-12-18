@@ -9,7 +9,7 @@ This repository contains the catalog of eclipsing detached PCEBs from Gaia DR3 a
 
 The contents of the repo are:
 
-1. **`WDMS_EBs.csv`** Table of the **entire sample**, where **each row corresponds to one binary** eclipsing WDMS PCEB.
+1. **`WDMS_EBs.csv`** The **entire sample** of eclipsing WDMS PCEBs, where **each row corresponds to one binary**.
 
 ---
 
