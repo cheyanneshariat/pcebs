@@ -15,7 +15,7 @@ The contents of the repo are:
 
 ## Data Columns
 
-This table contains observed and derived parameters for detached white dwarf+main-sequence PCEBs. Unless otherwise noted, all uncertainties are quoted as the 16th and 84th percentiles.
+This table contains observed and derived parameters for detached white dwarf + main-sequence PCEBs. Unless otherwise noted, all uncertainties are quoted as the 16th and 84th percentiles.
 
 ---
 
@@ -39,11 +39,11 @@ All MS stellar parameters are derived from SED fitting.
 - **Teff_ms_errm**, **Teff_ms_errp**  
   Lower and upper uncertainties on MS effective temperature
 - **R_ms_med**  
-  Radius (R⊙)
+  Radius ($R_\odot$)
 - **R_ms_errm**, **R_ms_errp**  
   Lower and upper uncertainties on MS radius
 - **M_ms_fromR_med**  
-  Mass inferred from the radius using stellar models (M⊙)
+  Mass inferred from the radius using stellar models ($M_\odot$)
 - **M_ms_fromR_errm**, **M_ms_fromR_errp**  
   Lower and upper uncertainties on MS mass
 
@@ -57,11 +57,11 @@ WD parameters are inferred photometrically via SED fitting and WD mass–radius 
 - **Teff_wd_errm**, **Teff_wd_errp**  
   Lower and upper uncertainties on WD effective temperature
 - **R_wd_med**  
-  Radius (R⊙)
+  Radius ($R_\odot$)
 - **R_wd_errm**, **R_wd_errp**  
   Lower and upper uncertainties on WD radius
 - **M_wd_fromR_med**  
-  WD mass inferred from the radius (M⊙)
+  WD mass inferred from the radius ($M_\odot$)
 - **M_wd_fromR_errm**, **M_wd_fromR_errp**  
   Lower and upper uncertainties on WD mass
 - **tau_cool**  
@@ -92,7 +92,7 @@ WD parameters are inferred photometrically via SED fitting and WD mass–radius 
 ### Future evolution and magnetic braking
 These quantities describe the predicted orbital evolution under magnetic braking.
 
-- **P_RL_days**, **P_roche_days**  
+- **P_RL_days**
   Orbital period at which the MS star fills its Roche lobe (days)
 - **t_to_roche_RVJ_Gyr**  
   Time until Roche–lobe overflow assuming RVJ magnetic braking (Gyr)
@@ -104,7 +104,7 @@ These quantities describe the predicted orbital evolution under magnetic braking
 ## Notes
 - All masses are in solar units ($M_\odot$), radii in solar units ($R_\odot$), periods in days or hours as specified.
 - Timescales are given in gigayears (Gyr).
-- WD and MS parameters are derived independently via SED fitting.
+- WD and MS parameters are derived via 2-component SED fitting.
 
 ---
 
