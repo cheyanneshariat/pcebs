@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the catalog of eclipsing detached PCEBs from Gaia DR3 and ZTF within 200 pc from the Sun. The catalog construction is detailed in Shariat & El-Badry (2026); please cite that paper when using this catalog. 
+This repository contains the catalog of eclipsing detached PCEBs. The catalog construction is detailed in Shariat & El-Badry (2026); please cite that paper when using this catalog. 
 
 The contents of the repo are:
 
