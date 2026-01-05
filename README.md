@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the catalog of eclipsing detached PCEBs. The catalog construction is detailed in (Shariat & El-Badry (2026))[https://ui.adsabs.harvard.edu/abs/2026arXiv260100439S/abstract]; please cite that paper when using this catalog. 
+This repository contains the catalog of eclipsing detached PCEBs. The catalog construction is detailed in [Shariat & El-Badry (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260100439S/abstract); please cite that paper when using this catalog. 
 
 The contents of the repo are:
 
